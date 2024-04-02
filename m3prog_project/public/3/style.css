@@ -1,0 +1,9 @@
+*{
+    margin: auto;
+}
+
+body{
+    margin: auto;
+    display: flex;
+    color: blanchedalmond;
+}
